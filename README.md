@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
-- Live Site URL: [GitHub Pages / Vercel Live Site]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-A9EEx2hwxt)
+- Live Site URL: [GitHub Pages / Vercel Live Site](https://freedev-group.github.io/Huddle-landing-page-Wise/)
 
 ## My process
 
